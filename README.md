@@ -4,7 +4,7 @@ File explorer which runs on the browser.
 # How to run the project
 
 1. Clone it on your system.
-2. Open index.html
+2. Open index.html or Open this [link](https://manishbisht.github.io/File-Explorer/)
 
 #Problem Statement
 ##File Explorer
